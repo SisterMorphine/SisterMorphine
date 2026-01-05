@@ -1,5 +1,9 @@
 ## Hi there, I'm Leti Rocha 👋
 
+- 🔭 I’m currently working on Accenture Song as QA Engineer
+- 🌱 I’m currently learning Flutter testing
+- 📫 How to reach me: leti.rocha@gmail.com
+
 <!--
 **SisterMorphine/SisterMorphine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
