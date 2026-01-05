@@ -1,7 +1,7 @@
 ## Hi there, I'm Leti Rocha 👋
 
-- 🔭 I’m currently working on Accenture Song as QA Engineer
-- 🌱 I’m currently learning Flutter testing
+- 🔭 Currently working on Accenture Song as QA Engineer
+- 🌱 Learning Flutter testing
 - 📫 How to reach me: leti.rocha@gmail.com
 
 <!--
